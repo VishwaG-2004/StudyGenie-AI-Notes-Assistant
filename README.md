@@ -12,8 +12,8 @@ Transformers
 OpenCV
 PyTorch
 
-Run:
+## Run Web App
 
 pip install -r requirements.txt
 
-python main.py
+streamlit run app.py
