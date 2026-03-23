@@ -1,0 +1,3 @@
+MODEL_NAME="facebook/bart-large-cnn"
+SUMMARY_MAX_LENGTH=150
+SUMMARY_MIN_LENGTH=50
